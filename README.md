@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-00FF9D?style=for-the-badge&logo=ai&logoColor=black&labelColor=1a1a1a" alt="Prompt Engineering Expert"/>
-  <img src="https://img.shields.io/badge/LLM%20Expert-GPT%20%7C%20Claude%20%7C%20Llama-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Models"/>
+  <img src="https://img.shields.io/badge/LLM%20Expert-GPT%20%7C%20Claude%20%7C%20Gemini-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Models"/>
   <img src="https://img.shields.io/badge/Crypto%20Enthusiast-%F0%9F%AA%99-FFD93D?style=for-the-badge&logo=monero&logoColor=black" alt="Crypto Enthusiast"/>
   <img src="https://img.shields.io/badge/Monero%20Fan-🪙-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero Fan"/>
 </p>
