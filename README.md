@@ -4,8 +4,7 @@
 
 <h2 align="center">Prompt Engineering • Large Language Models • AI Systems</h2>
 
-<p align="center">
-  <a href="mailto:oxdf91@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
+
   <!-- Dodaj X / Twitter jeśli masz -->
 </p>
 
