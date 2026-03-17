@@ -44,7 +44,7 @@
 
 ### 🚀 Currently Working On / Interests
 - Advanced **Prompt Engineering** techniques (chain-of-thought, few-shot, self-consistency...)
-- Fine-tuning & evaluation of **LLMs** (GPT, Claude, Llama, Mistral, Grok...)
+- Fine-tuning & evaluation of **LLMs** (GPT, Claude, Gemini, Perplexity, Grok...)
 - Building **AI agents** and autonomous workflows
 - Privacy-focused AI & crypto (Monero enthusiast & fan 🪙 – love the privacy and freedom)
 
