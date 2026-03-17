@@ -15,11 +15,8 @@
 
   
   <!-- Standard icons -->
-  <img src="https://skillicons.dev/icons?i=vscode,macos,github,python,html,json,ai&perline=7&theme=dark" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,macos,github,python,html,json,&perline=7&theme=dark" alt="Core Stack" />
   <br><br>
-
-
-  
   <!-- Custom uploaded icons + Illustrator -->
   <img src="https://files.catbox.moe/oxq00t.png" width="56" alt="Codex" title="Codex" />
   <img src="https://files.catbox.moe/h8dd6i.png" width="56" alt="Antigravity" title="Antigravity" />
