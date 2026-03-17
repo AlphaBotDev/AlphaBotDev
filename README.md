@@ -4,20 +4,18 @@
 
 <h2 align="center">Prompt Engineering • Large Language Models • AI Systems</h2>
 
+<!-- ===================================================================== -->
 
-  <!-- Dodaj X / Twitter jeśli masz -->
-</p>
+<h3 align="center">🛠️ My Tech Stack</h3>
 
----
-
-### 🛠️ My Tech Stack
-<h4 align="center">Tools & Technologies</h4>
 <p align="center">
-  <!-- Cursor dla Codex/AI coding, Illustrator z Devicon, rocket dla Antigravity vibe -->
-  <img src="https://skillicons.dev/icons?i=cursor,vscode,macos,github,python,html,json,ai&perline=8&theme=dark" alt="Core Stack" />
+  <!-- Standard icons -->
+  <img src="https://skillicons.dev/icons?i=vscode,macos,github,python,html,json,ai&perline=7&theme=dark" alt="Core Stack" />
   <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="48" alt="Adobe Illustrator" title="Adobe Illustrator" />
-  <img src="https://skillicons.dev/icons?i=rocket" alt="Rocket - Antigravity Concepts" title="Antigravity Concepts 🚀" />
+  <!-- Custom uploaded icons + Illustrator -->
+  <img src="https://raw.githubusercontent.com/AlphaBotDev/AlphaBotDev/main/codex-icon.png" width="56" alt="Codex" title="Codex" />
+  <img src="https://raw.githubusercontent.com/AlphaBotDev/AlphaBotDev/main/antigravity-icon.png" width="56" alt="Antigravity" title="Antigravity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="56" alt="Adobe Illustrator" title="Adobe Illustrator" />
 </p>
 
 <p align="center">
@@ -27,11 +25,12 @@
   <img src="https://img.shields.io/badge/Monero%20Fan-🪙-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero Fan"/>
 </p>
 
----
+<!-- ===================================================================== -->
 
-### 🔥 GitHub Stats
+<h3 align="center">🔥 GitHub Stats</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=radical&hide_border=true" alt="Streak" width="48%"/>
 </p>
 
@@ -39,18 +38,27 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaBotDev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
 </p>
 
----
+<!-- ===================================================================== -->
 
-### 🚀 Currently Working On / Interests
-- Advanced **Prompt Engineering** techniques (chain-of-thought, few-shot, self-consistency...)
-- Fine-tuning & evaluation of **LLMs** (GPT, Claude, Gemini, Perplexity, Grok...)
-- Building **AI agents** and autonomous workflows
-- Privacy-focused AI & crypto (Monero enthusiast & fan 🪙 – love the privacy and freedom)
+<h3 align="center">🚀 Currently Working On / Interests</h3>
 
-### 📫 Let's connect & collaborate
-oxdf91@protonmail.com  
-Open to: prompt reviews, AI project collabs, crypto/AI discussions, feedback on models/prompts
+<p align="center">
+  • Advanced <b>Prompt Engineering</b> techniques (chain-of-thought, few-shot, self-consistency, tree-of-thoughts...)<br>
+  • Fine-tuning & evaluation of <b>LLMs</b> (GPT, Claude, Llama, Mistral, Grok...)<br>
+  • Building <b>AI agents</b> and autonomous workflows<br>
+  • Privacy-focused AI & crypto (Monero enthusiast & fan 🪙 – love the privacy and freedom)
+</p>
 
----
+<!-- ===================================================================== -->
 
-Made with ❤️, privacy & lots of tokens
+<h3 align="center">📫 Let's connect & collaborate</h3>
+
+<p align="center">
+  Open to: prompt reviews, AI project collabs, crypto/AI discussions, feedback on models/prompts
+</p>
+
+<!-- ===================================================================== -->
+
+<p align="center">
+  <i>Made with ❤️, privacy & lots of tokens</i>
+</p>
