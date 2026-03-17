@@ -6,21 +6,26 @@
 
 <p align="center">
   <a href="mailto:oxdf91@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/></a>
-  <!-- Dodaj X / Twitter jeśli masz: -->
-  <!-- <a href="https://x.com/TwojHandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a> -->
+  <!-- Dodaj X / Twitter jeśli masz -->
 </p>
 
 ---
 
 ### 🛠️ My Tech Stack
+<h4 align="center">Tools & Technologies</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cursor,vscode,macos,github,python,html,json,ai&perline=8" alt="Tech Stack" />
+  <!-- Cursor dla Codex/AI coding, Illustrator z Devicon, rocket dla Antigravity vibe -->
+  <img src="https://skillicons.dev/icons?i=cursor,vscode,macos,github,python,html,json,ai&perline=8&theme=dark" alt="Core Stack" />
+  <br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="48" alt="Adobe Illustrator" title="Adobe Illustrator" />
+  <img src="https://skillicons.dev/icons?i=rocket" alt="Rocket - Antigravity Concepts" title="Antigravity Concepts 🚀" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-00FF9D?style=for-the-badge&logo=ai&logoColor=black&labelColor=1a1a1a" alt="Prompt Engineering Expert"/>
   <img src="https://img.shields.io/badge/LLM%20Expert-GPT%20%7C%20Claude%20%7C%20Llama-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Models"/>
-  <img src="https://img.shields.io/badge/AI%20Systems-Designing%20%26%20Optimizing-9F7AEA?style=for-the-badge&logo=python&logoColor=white" alt="AI Systems"/>
+  <img src="https://img.shields.io/badge/Crypto%20Enthusiast-%F0%9F%AA%99-FFD93D?style=for-the-badge&logo=monero&logoColor=black" alt="Crypto Enthusiast"/>
+  <img src="https://img.shields.io/badge/Monero%20Fan-🪙-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero Fan"/>
 </p>
 
 ---
@@ -38,15 +43,15 @@
 ---
 
 ### 🚀 Currently Working On / Interests
-- Advanced **Prompt Engineering** techniques (chain-of-thought, few-shot, self-consistency, tree-of-thoughts...)
+- Advanced **Prompt Engineering** techniques (chain-of-thought, few-shot, self-consistency...)
 - Fine-tuning & evaluation of **LLMs** (GPT, Claude, Llama, Mistral, Grok...)
 - Building **AI agents** and autonomous workflows
-- Privacy-focused AI (Monero + local/open models)
+- Privacy-focused AI & crypto (Monero enthusiast & fan 🪙 – love the privacy and freedom)
 
 ### 📫 Let's connect & collaborate
 oxdf91@protonmail.com  
-Open to: prompt reviews, AI project collabs, feedback on models/prompts
+Open to: prompt reviews, AI project collabs, crypto/AI discussions, feedback on models/prompts
 
 ---
 
-Made with ❤️ & lots of tokens
+Made with ❤️, privacy & lots of tokens
