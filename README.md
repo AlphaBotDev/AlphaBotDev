@@ -10,7 +10,7 @@
 
 <p align="center">
   <!-- All icons in one row -->
-  <img src="https://skillicons.dev/icons?i=vscode,macos,github,python,html,json,ai&perline=10&theme=dark" alt="Core Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,macos,github,python,html,json,&perline=10&theme=dark" alt="Core Stack" />
   <img src="https://files.catbox.moe/oxq00t.png" width="48" alt="Codex" title="Codex" />
   <img src="https://files.catbox.moe/h8dd6i.png" width="48" alt="Antigravity" title="Antigravity" />
 </p>
