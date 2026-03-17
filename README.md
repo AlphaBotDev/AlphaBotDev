@@ -2,25 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+AlphaBotDev;Prompt+Engineer+%26+AI+Models+Expert" alt="Typing SVG" />
 </div>
 
-<h2 align="center">Prompt Engineering • Language Models • AI Systems</h2>
+<h2 align="center">Prompt Engineering • Large Language Models • AI Systems</h2>
 
 <!-- ===================================================================== -->
 
 <h3 align="center">🛠️ My Tech Stack</h3>
 
-
-
 <p align="center">
-
-
-  
-  <!-- Standard icons -->
-  <img src="https://skillicons.dev/icons?i=vscode,macos,github,python,html,json,&perline=7&theme=dark" alt="Core Stack" />
-  <br><br>
-  <!-- Custom uploaded icons + Illustrator -->
-  <img src="https://files.catbox.moe/oxq00t.png" width="56" alt="Codex" title="Codex" />
-  <img src="https://files.catbox.moe/h8dd6i.png" width="56" alt="Antigravity" title="Antigravity" />
-
+  <!-- All icons in one row -->
+  <img src="https://skillicons.dev/icons?i=vscode,macos,github,python,html,json,ai&perline=10&theme=dark" alt="Core Stack" />
+  <img src="https://files.catbox.moe/oxq00t.png" width="48" alt="Codex" title="Codex" />
+  <img src="https://files.catbox.moe/h8dd6i.png" width="48" alt="Antigravity" title="Antigravity" />
 </p>
 
 <p align="center">
