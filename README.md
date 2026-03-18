@@ -46,7 +46,7 @@
   • Privacy-focused AI & crypto (Monero enthusiast & fan 🪙 – love the privacy and freedom)
 </p>
 
-<!-- ===================================================================== -->
+
 
 <h3 align="center">📫 Let's connect & collaborate</h3>
 
