@@ -5,7 +5,7 @@
 <br/><br/>
 
 <a href="https://github.com/AlphaBotDev">
-  <img src="https://img.shields.io/github/followers/AlphaBotDev?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/AlphaBotDev?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="GitHub followers" />
 </a>
 <a href="https://github.com/AlphaBotDev?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-10-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Repositories" />
@@ -39,7 +39,14 @@ status: Building and learning every day.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&radius=12&custom_title=AlphaBotDev%27s%20Contribution%20Graph" />
+<div align="center">
+
+<!-- AUTOMATYCZNY WYKRES AKTYWNOŚCI -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&radius=12&custom_title=AlphaBotDev%27s%20Contribution%20Graph" alt="AlphaBotDev Contribution Graph" width="96%" />
+
+</div>
+
+<br/>
 
 ---
 
@@ -48,9 +55,11 @@ status: Building and learning every day.
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="70" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="72" alt="HTML" />
 </a>
-&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://claude.ai">
   <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude AI" />
 </a>
@@ -95,15 +104,15 @@ status: Building and learning every day.
 <div align="center">
 
 <a href="https://github.com/AlphaBotDev/Kalkulator-w-HTML-Calculator-in-HTML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Kalkulator-w-HTML-Calculator-in-HTML&theme=tokyonight&hide_border=true" alt="HTML Calculator" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Kalkulator-w-HTML-Calculator-in-HTML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="HTML Calculator" />
 </a>
 
 <a href="https://github.com/AlphaBotDev/cryptoestates.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=cryptoestates.github.io&theme=tokyonight&hide_border=true" alt="CryptoEstates Website" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=cryptoestates.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="CryptoEstates Website" />
 </a>
 
 <a href="https://github.com/AlphaBotDev/testwebsitemf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=testwebsitemf&theme=tokyonight&hide_border=true" alt="Website Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=testwebsitemf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Website Project" />
 </a>
 
 </div>
@@ -112,33 +121,13 @@ status: Building and learning every day.
 
 ---
 
-## 📈 Contribution graph
+## 📊 GitHub activity
 
 <div align="center">
 
-<!-- Wykres liniowy aktywności — automatycznie pobiera dane z GitHuba -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&radius=12&custom_title=AlphaBotDev%27s%20Contribution%20Graph" alt="Contribution graph" width="95%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
 
-<br/><br/>
-
-<!-- Oficjalna siatka wkładów GitHub -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
-> Wykres zaktualizuje się sam wraz z nowymi commitami i aktywnością na GitHubie.
-
-<br/>
-
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 
 </div>
 
