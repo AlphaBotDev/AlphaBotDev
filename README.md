@@ -1,50 +1,151 @@
 <div align="center">
-  <!-- Typing SVG -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Prompt+Engineering;Large+Language+Models;AI+Systems" alt="Typing SVG" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Kacper+%F0%9F%91%8B;AlphaBotDev+%E2%80%94+AI+%26+Web+Builder;Prompt+Engineering+%7C+Automation+%7C+Privacy" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/AlphaBotDev">
+  <img src="https://img.shields.io/github/followers/AlphaBotDev?label=Followers&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="GitHub followers" />
+</a>
+<a href="https://github.com/AlphaBotDev?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20repositories-10-238636?style=for-the-badge&labelColor=161B22" alt="Repositories" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=AlphaBotDev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+
 </div>
 
-<br>
+---
+
+## 🧠 About me
+
+```yaml
+name: Kacper
+username: AlphaBotDev
+location: Warsaw, Poland 🇵🇱
+focus:
+  - Prompt Engineering
+  - AI Models & AI Agents
+  - Web Development
+  - Automation
+  - Privacy & Crypto
+currently_building: Practical AI and web projects
+```
+
+> Building useful things with AI, code and curiosity.  
+> Interested in better prompts, intelligent workflows, privacy-focused technology and open-source projects.
+
+---
+
+## ⚡ What I do
+
+- 🧩 Design and test advanced prompts for modern AI models
+- 🤖 Explore AI agents, autonomous workflows and practical automation
+- 🌐 Build websites and simple web tools
+- 🐍 Create projects with Python
+- 🔐 Learn about crypto, privacy and decentralized technology
+- 🪙 Monero enthusiast — privacy is a feature, not an afterthought
+
+---
+
+## 🛠️ Tech stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Expert-58A6FF?style=for-the-badge" alt="Prompt Engineering Expert" />
-  <img src="https://img.shields.io/badge/AI-Models-238636?style=for-the-badge" alt="AI Models" />
-  <img src="https://img.shields.io/badge/Crypto-Enthusiast-F7931A?style=for-the-badge" alt="Crypto Enthusiast" />
-  <img src="https://img.shields.io/badge/Monero-Fan-FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero Fan" />
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,git,github,vscode,linux&theme=dark" alt="Skills" />
+
 </div>
 
-<br>
-
-### 🛠️ My Tech Stack
-
-* **Core Stack:** Codex • Antigravity
-
-### 🚀 Currently Working On / Interests
-
-* **Advanced Prompt Engineering techniques:** chain-of-thought, few-shot, self-consistency, tree-of-thoughts...
-* **Fine-tuning & evaluation of LLMs:** GPT, Claude, Llama, Mistral, Grok...
-* **Building AI agents** and autonomous workflows
-* **Privacy-focused AI & crypto:** Monero enthusiast & fan 🪙 – love the privacy and freedom
-
-### 🔥 GitHub Stats
+<br/>
 
 <div align="center">
-  <!-- Zmień TWOJ_NICK na swoją nazwę użytkownika -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TWOJ_NICK&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-<div align="center">
-  <!-- Zmień TWOJ_NICK na swoją nazwę użytkownika -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+
+| Area | Technologies & interests |
+|:--|:--|
+| **AI** | Prompt engineering, LLMs, AI agents, evaluation, workflows |
+| **Programming** | Python, JavaScript, TypeScript |
+| **Web** | HTML, CSS, frontend projects |
+| **Tools** | Git, GitHub, VS Code, Linux |
+| **Exploring** | Crypto, Monero, privacy-first technologies |
+
 </div>
 
-### 📫 Let's connect & collaborate
+---
 
-**Open to:** prompt reviews, AI project collabs, crypto/AI discussions, feedback on models/prompts.
+## 🚀 Current focus
 
-<br>
+```text
+[████████████████████░░] Prompt engineering
+[██████████████████░░░░] AI agents & automation
+[███████████████░░░░░░░] Web development
+[█████████████░░░░░░░░░] Crypto & privacy technology
+```
+
+- Improving prompt quality, structure and reliability
+- Exploring GPT, Claude, Llama, Mistral and other LLM ecosystems
+- Building practical web projects and experimenting with TypeScript
+- Learning through shipping projects, not only tutorials
+
+---
+
+## 📌 Featured projects
 
 <div align="center">
-  <i>Made with ❤️, privacy & lots of tokens,</i>
+
+<a href="https://github.com/AlphaBotDev/Ile-masz-lat-What-age-are-you">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Ile-masz-lat-What-age-are-you&theme=tokyonight&hide_border=true" alt="Ile masz lat" />
+</a>
+<a href="https://github.com/AlphaBotDev/Kalkulator-w-HTML-Calculator-in-HTML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Kalkulator-w-HTML-Calculator-in-HTML&theme=tokyonight&hide_border=true" alt="Calculator HTML" />
+</a>
+
+<a href="https://github.com/AlphaBotDev/Zegar-Digital-Clock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Zegar-Digital-Clock&theme=tokyonight&hide_border=true" alt="Digital Clock" />
+</a>
+<a href="https://github.com/AlphaBotDev/cryptoestates.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=cryptoestates.github.io&theme=tokyonight&hide_border=true" alt="CryptoEstates" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaBotDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+## 🧩 A little more
+
+```python
+while learning:
+    build()
+    test()
+    improve()
+    share()
+```
+
+<div align="center">
+
+### “The best way to understand technology is to build with it.”
+
+<br/>
+
+<a href="https://github.com/AlphaBotDev">
+  <img src="https://img.shields.io/badge/GitHub-AlphaBotDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:58A6FF,100:8957E5&height=130&section=footer" alt="Footer" />
+
 </div>
