@@ -1,101 +1,89 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&duration=2800&pause=850&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Kacper+%F0%9F%91%8B;AlphaBotDev+%E2%80%94+HTML+%26+Claude+AI;Building+ideas+into+websites." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Kacper+%F0%9F%91%8B;AlphaBotDev+%E2%80%94+AI+%26+Web+Builder;Prompt+Engineering+%7C+Automation+%7C+Privacy" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/AlphaBotDev">
-  <img src="https://img.shields.io/github/followers/AlphaBotDev?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/followers/AlphaBotDev?label=Followers&style=for-the-badge&color=58A6FF&labelColor=161B22" alt="GitHub followers" />
 </a>
 <a href="https://github.com/AlphaBotDev?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-10-58A6FF?style=for-the-badge&labelColor=0D1117" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Public%20repositories-10-238636?style=for-the-badge&labelColor=161B22" alt="Repositories" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=AlphaBotDev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
-<br/>
-
 ---
 
-## 👋 About me
+## 🧠 About me
 
 ```yaml
 name: Kacper
 username: AlphaBotDev
 location: Warsaw, Poland 🇵🇱
-
 focus:
-  - HTML
-  - Website building
-  - Claude AI
-  - Prompt engineering
-
-status: Building and learning every day.
+  - Prompt Engineering
+  - AI Models & AI Agents
+  - Web Development
+  - Automation
+  - Privacy & Crypto
+currently_building: Practical AI and web projects
 ```
 
-> I build simple, useful and clean web projects.  
-> I use **HTML** to turn ideas into websites and **Claude AI** to explore, learn and create faster.
-
-<br/>
-
-<div align="center">
-
-<!-- AUTOMATYCZNY WYKRES AKTYWNOŚCI -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&radius=12&custom_title=AlphaBotDev%27s%20Contribution%20Graph" alt="AlphaBotDev Contribution Graph" width="96%" />
-
-</div>
-
-<br/>
+> Building useful things with AI, code and curiosity.  
+> Interested in better prompts, intelligent workflows, privacy-focused technology and open-source projects.
 
 ---
 
-## ⚡ Main skills
+## ⚡ What I do
 
-<div align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="72" alt="HTML" />
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://claude.ai">
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="48" alt="Claude AI" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| Skill | What I use it for |
-|:--:|:--|
-| 🌐 **HTML** | Building websites, layouts and web projects |
-| 🧠 **Claude AI** | Learning, research, ideas and better workflows |
-| ✨ **Prompt Engineering** | Writing clear prompts that get useful results |
-
-</div>
-
-<br/>
+- 🧩 Design and test advanced prompts for modern AI models
+- 🤖 Explore AI agents, autonomous workflows and practical automation
+- 🌐 Build websites and simple web tools
+- 🐍 Create projects with Python
+- 🔐 Learn about crypto, privacy and decentralized technology
+- 🪙 Monero enthusiast — privacy is a feature, not an afterthought
 
 ---
 
-## 🚀 Currently working on
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,js,ts,git,github,vscode,linux&theme=dark" alt="Skills" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Area | Technologies & interests |
+|:--|:--|
+| **AI** | Prompt engineering, LLMs, AI agents, evaluation, workflows |
+| **Programming** | Python, JavaScript, TypeScript |
+| **Web** | HTML, CSS, frontend projects |
+| **Tools** | Git, GitHub, VS Code, Linux |
+| **Exploring** | Crypto, Monero, privacy-first technologies |
+
+</div>
+
+---
+
+## 🚀 Current focus
 
 ```text
-[████████████████████] HTML websites
-[██████████████████░░] Claude AI & prompt engineering
-[████████████████░░░░] Better web design and new ideas
+[████████████████████░░] Prompt engineering
+[██████████████████░░░░] AI agents & automation
+[███████████████░░░░░░░] Web development
+[█████████████░░░░░░░░░] Crypto & privacy technology
 ```
 
-- 🌐 Creating clean and practical HTML websites
-- 🧠 Learning how to get the most from Claude AI
-- ✍️ Improving prompts and AI workflows
-- 🔨 Publishing projects and learning by building
-
-<br/>
+- Improving prompt quality, structure and reliability
+- Exploring GPT, Claude, Llama, Mistral and other LLM ecosystems
+- Building practical web projects and experimenting with TypeScript
+- Learning through shipping projects, not only tutorials
 
 ---
 
@@ -103,48 +91,61 @@ status: Building and learning every day.
 
 <div align="center">
 
+<a href="https://github.com/AlphaBotDev/Ile-masz-lat-What-age-are-you">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Ile-masz-lat-What-age-are-you&theme=tokyonight&hide_border=true" alt="Ile masz lat" />
+</a>
 <a href="https://github.com/AlphaBotDev/Kalkulator-w-HTML-Calculator-in-HTML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Kalkulator-w-HTML-Calculator-in-HTML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="HTML Calculator" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Kalkulator-w-HTML-Calculator-in-HTML&theme=tokyonight&hide_border=true" alt="Calculator HTML" />
 </a>
 
+<a href="https://github.com/AlphaBotDev/Zegar-Digital-Clock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Zegar-Digital-Clock&theme=tokyonight&hide_border=true" alt="Digital Clock" />
+</a>
 <a href="https://github.com/AlphaBotDev/cryptoestates.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=cryptoestates.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="CryptoEstates Website" />
-</a>
-
-<a href="https://github.com/AlphaBotDev/testwebsitemf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=testwebsitemf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Website Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=cryptoestates.github.io&theme=tokyonight&hide_border=true" alt="CryptoEstates" />
 </a>
 
 </div>
 
-<br/>
-
 ---
 
-## 📊 GitHub activity
+## 📊 GitHub analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlphaBotDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
-<br/>
-
 ---
+
+## 🧩 A little more
+
+```python
+while learning:
+    build()
+    test()
+    improve()
+    share()
+```
 
 <div align="center">
 
-### `build • learn • improve • repeat`
+### “The best way to understand technology is to build with it.”
+
+<br/>
 
 <a href="https://github.com/AlphaBotDev">
-  <img src="https://img.shields.io/badge/GitHub-AlphaBotDev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub AlphaBotDev" />
+  <img src="https://img.shields.io/badge/GitHub-AlphaBotDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,50:58A6FF,100:8957E5&height=130&section=footer" alt="Footer" />
 
 </div>
