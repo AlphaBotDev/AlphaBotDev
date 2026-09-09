@@ -91,19 +91,91 @@ currently_building: Practical AI and web projects
 
 <div align="center">
 
-<a href="https://github.com/AlphaBotDev/Ile-masz-lat-What-age-are-you">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Ile-masz-lat-What-age-are-you&theme=tokyonight&hide_border=true" alt="Ile masz lat" />
-</a>
 <a href="https://github.com/AlphaBotDev/Kalkulator-w-HTML-Calculator-in-HTML">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Kalkulator-w-HTML-Calculator-in-HTML&theme=tokyonight&hide_border=true" alt="Calculator HTML" />
+  <img
+    src="https://img.shields.io/badge/HTML%20Calculator-58A6FF?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML Calculator"
+  />
 </a>
 
-<a href="https://github.com/AlphaBotDev/Zegar-Digital-Clock">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=Zegar-Digital-Clock&theme=tokyonight&hide_border=true" alt="Digital Clock" />
-</a>
 <a href="https://github.com/AlphaBotDev/cryptoestates.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaBotDev&repo=cryptoestates.github.io&theme=tokyonight&hide_border=true" alt="CryptoEstates" />
+  <img
+    src="https://img.shields.io/badge/CryptoEstates-8957E5?style=for-the-badge&logo=github&logoColor=white"
+    alt="CryptoEstates"
+  />
 </a>
+
+<a href="https://github.com/AlphaBotDev/testwebsitemf">
+  <img
+    src="https://img.shields.io/badge/Test%20Website-238636?style=for-the-badge&logo=html5&logoColor=white"
+    alt="Test Website"
+  />
+</a>
+
+</div>
+
+<br/>
+
+---
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub statistics"
+  width="49%"
+/>
+
+<img
+  src="https://streak-stats.demolab.com?user=AlphaBotDev&theme=tokyonight&hide_border=true"
+  alt="GitHub streak"
+  width="49%"
+/>
+
+</div>
+
+<br/>
+
+---
+
+## 🟩 Contribution activity
+
+<p align="center">
+  My contribution activity is visible directly on my GitHub profile:
+</p>
+
+<p align="center">
+  <a href="https://github.com/AlphaBotDev">
+    <img
+      src="https://img.shields.io/badge/View%20GitHub%20contributions-AlphaBotDev-238636?style=for-the-badge&logo=github&logoColor=white"
+      alt="View GitHub contributions"
+    />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<div align="center">
+
+### `build • learn • improve • repeat`
+
+<a href="https://github.com/AlphaBotDev">
+  <img
+    src="https://img.shields.io/badge/GitHub-AlphaBotDev-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub AlphaBotDev"
+  />
+</a>
+
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=footer"
+  alt="Footer"
+/>
 
 </div>
 
