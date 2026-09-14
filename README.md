@@ -32,7 +32,7 @@ currently_learning:
 
 I build simple, clean and useful websites.
 
-I use **HTML** to turn ideas into web projects and Claude AI to learn, explore ideas and work more creatively.
+I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explore ideas and work more creatively.
 
 ---
 
@@ -79,7 +79,7 @@ I use **HTML** to turn ideas into web projects and Claude AI to learn, explore i
 
 <div align="center">
 
-<img src="https://contrib.rocks/image?user=AlphaBotDev&bg=%230D1117&text=58A6FF&dark=true" alt="AlphaBotDev GitHub contribution graph" />
+![GitHub contribution snake](https://raw.githubusercontent.com/AlphaBotDev/AlphaBotDev/output/github-contribution-grid-snake.svg)
 
 </div>
 
