@@ -32,7 +32,7 @@ currently_learning:
 
 I build simple, clean and useful websites.
 
-I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explore ideas and work more creatively.
+I use **HTML** to turn ideas into web projects and Claude AI to learn, explore ideas and work more creatively.
 
 ---
 
@@ -75,11 +75,11 @@ I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explo
 
 ---
 
-## 🟩 GitHub activity graph
+## 🟩 GitHub contribution graph
 
 <div align="center">
 
-[![AlphaBotDev GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=AlphaBotDev%20GitHub%20Activity)](https://github.com/AlphaBotDev)
+<img src="https://contrib.rocks/image?user=AlphaBotDev&bg=%230D1117&text=58A6FF&dark=true" alt="AlphaBotDev GitHub contribution graph" />
 
 </div>
 
