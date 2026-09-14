@@ -82,6 +82,7 @@ I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explo
 [![AlphaBotDev GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=FFFFFF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=AlphaBotDev%20GitHub%20Activity)](https://github.com/AlphaBotDev)
 
 </div>
+
 ---
 
 ## 💬 Mindset
