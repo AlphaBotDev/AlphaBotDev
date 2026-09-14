@@ -80,8 +80,15 @@ I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explo
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
-  alt="AlphaBotDev GitHub activity graph"
+  src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  alt="AlphaBotDev GitHub statistics"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=github-dark-blue&hide_border=true"
+  alt="AlphaBotDev GitHub contribution streak"
 />
 
 <br/><br/>
