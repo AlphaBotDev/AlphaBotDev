@@ -77,16 +77,23 @@ I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explo
 
 ## 🟩 GitHub activity
 
-GitHub automatically displays my real contribution chart directly on my profile:
-
 <div align="center">
 
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AlphaBotDev&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true"
+  alt="AlphaBotDev GitHub activity graph"
+/>
+
+<br/><br/>
+
 <a href="https://github.com/AlphaBotDev">
-  <img src="https://img.shields.io/badge/View%20my%20GitHub%20profile-AlphaBotDev-238636?style=for-the-badge&logo=github&logoColor=white" alt="View AlphaBotDev GitHub profile" />
+  <img
+    src="https://img.shields.io/badge/View%20my%20GitHub%20profile-AlphaBotDev-238636?style=for-the-badge&logo=github&logoColor=white"
+    alt="View AlphaBotDev GitHub profile"
+  />
 </a>
 
 </div>
-
 ---
 
 ## 💬 Mindset
