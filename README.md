@@ -77,21 +77,9 @@ I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explo
 
 ## 🟩 GitHub activity
 
+My GitHub contribution graph is available directly on my profile.
+
 <div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AlphaBotDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  alt="AlphaBotDev GitHub statistics"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AlphaBotDev&theme=github-dark-blue&hide_border=true"
-  alt="AlphaBotDev GitHub contribution streak"
-/>
-
-<br/><br/>
 
 <a href="https://github.com/AlphaBotDev">
   <img
