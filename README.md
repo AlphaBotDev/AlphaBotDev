@@ -94,7 +94,7 @@ build → learn → improve → repeat
 > Small projects become real skills.  
 > Real skills become bigger projects.
 
----
+----
 
 <div align="center">
 
