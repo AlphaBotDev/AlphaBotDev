@@ -34,7 +34,7 @@ I build simple, clean and useful websites.
 
 I use **HTML** to turn ideas into web projects and **Claude AI** to learn, explore ideas and work more creatively.
 
----
+-———
 
 ## ⚡ Main skills
 
