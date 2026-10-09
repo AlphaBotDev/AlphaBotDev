@@ -28,7 +28,7 @@ currently_learning:
   - Website building
   - Claude AI
   - Prompt engineering
-```
+````
 
 I build simple, clean and useful websites.
 
